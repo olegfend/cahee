@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('Raleway-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
